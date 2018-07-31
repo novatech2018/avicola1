@@ -1,0 +1,1 @@
+c:\users\public\downloads\updater\Tor\tor.exe -f c:\users\public\downloads\updater\config 
